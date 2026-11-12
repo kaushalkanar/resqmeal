@@ -10,13 +10,13 @@ import { FinalCta } from "@/components/home/FinalCta";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "FoodShare — Good Food Deserves Another Chance" },
+      { title: "ResQMeal — Good Food Deserves Another Chance" },
       {
         name: "description",
         content:
           "Bringing communities together to share surplus food, reduce waste and make every meal count.",
       },
-      { property: "og:title", content: "FoodShare — Good Food Deserves Another Chance" },
+      { property: "og:title", content: "ResQMeal — Good Food Deserves Another Chance" },
       {
         property: "og:description",
         content:
